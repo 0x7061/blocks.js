@@ -1,6 +1,8 @@
 # Blocks.js
 A small platform game engine driven by JavaScript / DOM.
 
+Check out the demo here: http://mt111102.students.fhstp.ac.at/lv-meta/projekt/web/
+
 <pre>
 // create engine and add the viewport
 
