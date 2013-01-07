@@ -1,9 +1,9 @@
 # Blocks.js
-A small platform game engine driven by JavaScript / DOM.
+A small platform game engine driven by JavaScript and DOM.
 
 Check out the demo here: http://mt111102.students.fhstp.ac.at/lv-meta/projekt/web/
 
-<pre>
+```javascript
 // create engine and add the viewport
 
 var Engine = new Engine2('jumptastic',config);
@@ -21,3 +21,4 @@ Engine.setGravity(5);
 Engine.setPlayerSpeed(5);
 Engine.setElevatorSpeed(1);
 </pre>
+```
